@@ -37,6 +37,7 @@ h1,
 h3 {
 	font-family: 'Young Serif', 'Times New Roman', Times, serif;
 	line-height: 100%;
+	font-weight: 400;
 }
 
 h1 {
@@ -60,7 +61,7 @@ h3 {
 
 .recipe {
 	background-color: var(--color-white);
-	padding: 30px;
+	padding: 32px;
 	position: relative;
 }
 
@@ -98,6 +99,7 @@ h3 {
 
 	.recipe {
 		border-radius: 24px;
+		padding: 40px;
 	}
 
 	.recipe__image {
